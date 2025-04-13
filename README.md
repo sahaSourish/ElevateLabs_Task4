@@ -2,7 +2,7 @@
 
 # Walmart Weekly Sales Dashboard
 
-Hi there! 👋  
+Hi there!
 This project is a Tableau Public dashboard that explores Walmart's weekly sales data. It helps uncover patterns in sales over time, compares how stores perform, and looks at how things like holidays and temperature affect business.
 
 ---
