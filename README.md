@@ -75,3 +75,8 @@ You can download the Tableau file:
 `Walmart_Weekly_Sales_Dashboard.twbx`
 
 ---
+## Final Thoughts
+
+This dashboard was a fun and insightful project! It really showed how raw data can become a powerful tool when presented visually. Building this helped me strengthen my data storytelling, Tableau design, and interactive filtering skills.
+
+---
